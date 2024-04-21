@@ -17,7 +17,7 @@ function App() {
   return (
     <div
       style={{
-        maxWidth: "1200px",
+        maxWidth: "1000px",
         width: "100%",
         aspectRatio: "10 / 6",
         margin: "0 auto",
